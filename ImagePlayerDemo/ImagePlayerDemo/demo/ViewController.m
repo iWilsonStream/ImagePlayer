@@ -68,7 +68,7 @@
     CGRect rect = CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.width * 9 / 16);
     ImagePlayer * player = [[ImagePlayer alloc] initWithFrame:rect target:self];
     //不给定时间间隔的话，默认每隔3秒滚动1次
-//    player.interval = 3.f;
+    player.interval = 3.f;
     [self.view addSubview:player];
     self.player = player;
 }
