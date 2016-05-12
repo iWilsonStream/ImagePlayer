@@ -308,7 +308,6 @@
 				TargetAttributes = {
 					971F7B7A1CE2FF22002E1D3F = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 26T67SPN5U;
 					};
 					971F7B931CE2FF22002E1D3F = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -584,13 +583,13 @@
 			baseConfigurationReference = 169BA99473C0AFB21C700309 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: 钰萧 覃 (L6J464GKBL)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: 钰萧 覃 (L6J464GKBL)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "$(SRCROOT)/ImagePlayerDemo/sys/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.netschina.ImagePlayerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "41987214-131e-4280-8684-6e0d7720e9e4";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -599,13 +598,13 @@
 			baseConfigurationReference = E09E03D7EF772B40F8232375 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: 钰萧 覃 (L6J464GKBL)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: 钰萧 覃 (L6J464GKBL)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "$(SRCROOT)/ImagePlayerDemo/sys/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.netschina.ImagePlayerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "41987214-131e-4280-8684-6e0d7720e9e4";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
