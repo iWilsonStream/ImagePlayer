@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_06.png</string>
+		<key>bannerTitle</key>
+		<string>baidu</string>
+		<key>url</key>
+		<string>http://www.baidu.com</string>
+	</dict>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_10.png</string>
+		<key>bannerTitle</key>
+		<string>jikexueyuan</string>
+		<key>url</key>
+		<string>http://www.jikexueyuan.com</string>
+	</dict>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_07.png</string>
+		<key>bannerTitle</key>
+		<string>知学云</string>
+		<key>url</key>
+		<string>http://www.zhixueyun.com</string>
+	</dict>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_08.png</string>
+		<key>bannerTitle</key>
+		<string>培伴</string>
+		<key>url</key>
+		<string>http://www.ipeiban.com.cn</string>
+	</dict>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_09.png</string>
+		<key>bannerTitle</key>
+		<string>并没有</string>
+		<key>url</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

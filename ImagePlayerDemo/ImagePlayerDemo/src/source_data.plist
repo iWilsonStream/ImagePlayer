@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_01.png</string>
+		<key>bannerTitle</key>
+		<string>腾讯</string>
+		<key>url</key>
+		<string>http://www.tencent.com</string>
+	</dict>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_02.png</string>
+		<key>bannerTitle</key>
+		<string>facebook</string>
+		<key>url</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_03.png</string>
+		<key>bannerTitle</key>
+		<string>阿里巴巴</string>
+		<key>url</key>
+		<string>http://www.taobao.com</string>
+	</dict>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_04.png</string>
+		<key>bannerTitle</key>
+		<string>京东</string>
+		<key>url</key>
+		<string>http://www.jingdong.com</string>
+	</dict>
+	<dict>
+		<key>imagePath</key>
+		<string>banner_05.png</string>
+		<key>bannerTitle</key>
+		<string>wechat</string>
+		<key>url</key>
+		<string>http://www.ipeiban.com.cn</string>
+	</dict>
+</array>
+</plist>
